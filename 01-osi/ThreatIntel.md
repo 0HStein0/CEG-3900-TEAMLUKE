@@ -53,3 +53,19 @@ This is what IT systems and databases rely on to keep things running well.
 - Open-source feeds
 - Dark web monitoring
 - Internal security logs and past incidents
+
+---
+
+## Questions:
+    1. What is the CVE of the original POODLE attack?
+        CVE-2014-3566
+    2. What version of VSFTPD contained the smiley face backdoor?
+        vsftpd-2.3.4
+    3. What was the first 1.0.1 version of OpenSSL that was NOT vulnerable to heartbleed?
+        1.0.1g
+    4. What was the original RFC number that described Telenet?
+        RFC 854 and RFC 855
+    5. How large (in bytes) was the SQL Slammer worm?
+        376 bytes
+    6. Samy is my...
+        hero.
