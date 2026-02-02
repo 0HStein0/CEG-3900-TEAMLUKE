@@ -14,3 +14,8 @@
         Addressing Architecture", RFC 3513, April 2003.`
     3. The NS (Name Server) record is used to delegate a DNS zone. As described in RFC 1035, a DNS zone is delegated by listing the authoritative name servers for that zone using NS records. These records specify which DNS servers are responsible for answering queries for the delegated zone.
        - What is a nameserver? A nameserver is a type of DNS server that stores and provides DNS records for a domain. Most domains use multiple nameservers to improve reliability and availability, so if one nameserver fails, others can still respond to DNS queries.
+  - Links
+      1. `https://www.cloudflare.com/learning/dns/dns-records/`
+      2. `https://datatracker.ietf.org/doc/html/rfc1035#page-12`
+      3. `https://www.rfc-editor.org/rfc/rfc3596`
+      4. `https://datatracker.ietf.org/doc/html/rfc4034`
