@@ -19,9 +19,9 @@ Network and DNS
 
 - Lookup
   - DNS and authorship
+
 - WHOIS
   - more DNS, ICANN
-
 ---
 
 NIST
