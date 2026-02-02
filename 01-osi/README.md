@@ -7,8 +7,6 @@ Images and data:
 - Meta
   - Image metadata
 
----
-
 - Barcode
   - Familiarize and document
 - add QR codes
