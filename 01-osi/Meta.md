@@ -125,6 +125,8 @@ OR you can find online metadata viewers, such as:
 ---
 
 ## Questions:
+
+Here are some questions from the exercise:
     1. When was the image created? Round to the nearest minute.
         05/15/2015 02:14
     2. What is the image size in pixels?
