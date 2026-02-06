@@ -28,10 +28,13 @@
     - Most commonly, the command looks like this: `strings filename.jpg | grep SKY` - SKY here refers to what you're looking for.
     - `string filename.jpg` = This scans the JPG file and extracts human-readable text hidden inside the binary data.
     - `grep SKY` = Searches for words that match SKY.
-- Bash
+- @Bash
+    - @Bash is the same as atbash.
+    - @Bash is an encryption method that is similar to shift, but in this case, the entire alphabet is reversed.
+      1. `Plaintext:          ABCDE        FGHIJK     LMNOP     QRSTUV     WXYZ`
+      2. `Ciphertext:         ZYXWV        UTSRQP     ONMLK     JIHGFE     DCBA`
+    - Tools like the ones mentioned before can be used. 
 - Fencing
-    - notes on how to use above tools to solve gyms
-    - notes on any command line tools that do the same
 
 - Links
     - `https://quipqiup.com/`
